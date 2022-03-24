@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **yanka.zabka@gmail.com**
 
-- 📄 Know about my experiences: [https://bit.ly/3z39P6u](https://bit.ly/3z39P6u)
+- 📄 Know about my experiences : [CV](https://bit.ly/3z39P6u)
 
 
 <h3 align="left">Connect with me:</h3>
