@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm YankaZabka</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
 
-- 🌱 I’m currently doing an **internship**
+- 🌱 I’m currently working at [**Aristek Systems**](https://bit.ly/3z39P6u)
 
 - 📫 How to reach me: **yanka.zabka@gmail.com**
-
-- 📄 Know about my experiences : [CV](https://bit.ly/3z39P6u)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
