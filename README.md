@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YankaZabka</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
 
-- 🌱 I’m currently working at [**Aristek Systems**](https://bit.ly/3z39P6u)
+- 🌱 I’m currently working at [**Aristek Systems**](https://aristeksystems.com)
 
 - 📫 How to reach me: **yanka.zabka@gmail.com**
 
