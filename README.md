@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YankaZabka</h1>
-<h3 align="center">A passionate JavaScript dev</h3>
+<h3 align="center">A passionate JavaScript/Node.js dev</h3>
 
 - 🇵🇱 Based in Poland
 
