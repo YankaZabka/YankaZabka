@@ -3,8 +3,6 @@
 
 - 🇵🇱 Based in Poland
 
-- 🌱 I’m currently working at [**Aristek Systems**](https://aristeksystems.com)
-
 - 📫 How to reach me: **yanka.zabka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
