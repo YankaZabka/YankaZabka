@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/ivan-kurenkou-852038256/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="40" /></a>
+ <a href="www.linkedin.com/in/ikurenkou" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
